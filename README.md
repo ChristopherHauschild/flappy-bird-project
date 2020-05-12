@@ -3,7 +3,7 @@
 Projeto baseado no game Flappy Bird desenvolvido durante o curso de Web Moderno com JavaScript 2020 COMPLETO + Projetos, disponibilizado pelo mestre em Informática Aplicada Leonardo Leitão, através da plataforma Cod3r. O curso visa capacitar o aluno nas tecnologias de frontend e backend, formando desenvolvedores Web Fullstack aptos ao mercado de trabalho. Para isso, tem como objetivo proporcionar o domínio dos úlltimos recursos de HTML, CSS, Javascript e vários frameworks, além de compreensão dos paradigmas de programação usados na Web Moderna: Funcional, Orientação a Objeto entre outros, aliando tudo isso a boas práticas de programação e padrões de projeto.
 
 <hr>
-<p align="center>
+<p align="center">
 <img width="1000px" src="https://github.com/ChristopherHauschild/flappy-bird-project/blob/master/FB.gif?raw=true" />
 </p>
 <hr>
