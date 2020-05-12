@@ -4,7 +4,7 @@ Projeto baseado no game Flappy Bird desenvolvido durante o curso de Web Moderno 
 
 <hr>
 <p align="center>
-<img width="100px" src="https://github.com/ChristopherHauschild/flappy-bird-project/blob/master/FB.gif?raw=true" />
+<img width="1000px" src="https://github.com/ChristopherHauschild/flappy-bird-project/blob/master/FB.gif?raw=true" />
 </p>
 <hr>
 
